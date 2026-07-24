@@ -24,7 +24,6 @@ Transforming 100K+ E-commerce Transactions into Actionable Business Insights
 - Key Insights
 - Business Recommendations
 - How to Run
-- Future Enhancements
 - Contact
 
 ---
