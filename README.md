@@ -97,12 +97,12 @@ For complete dataset information:
 
 # Technology Stack
 
-| Tool | Purpose |
+| Technology | Purpose |
 |-------|----------|
-| SQL Server | Data Storage |
-| SQL | Business Analytics |
-| Power BI | Dashboard Development |
-| Excel | Data Exploration |
+| SQL Server | Database management and analytical query execution |
+| T-SQL | Data auditing, transformation, and business analytics |
+| Power BI | Interactive dashboards and business reporting |
+| Git & GitHub | Version control and project documentation |
 
 ---
 
@@ -245,7 +245,6 @@ Based on the analysis:
 
 - Increase investment in high-performing product categories through targeted inventory planning and marketing campaigns.
 - Optimize delivery operations in regions with longer delivery times to improve customer satisfaction.
-- Strengthen partnerships with top-performing sellers while monitoring underperforming sellers through performance KPIs.
 - Improve customer retention by implementing personalized offers and loyalty programs for high-value customers.
 - Continuously monitor executive KPIs using interactive dashboards to enable faster, data-driven business decisions.
 ---
