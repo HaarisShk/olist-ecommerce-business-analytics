@@ -217,7 +217,7 @@ dataset/
 
 ## Payment Dashboard
 
-<img width="1306" height="733" alt="06 Review_Analytics" src="https://github.com/user-attachments/assets/73f508b0-e672-421e-8002-024d9be0d0ba" />
+<img width="1310" height="736" alt="07 Payment_Analytics" src="https://github.com/user-attachments/assets/d2441fe0-82d3-4a56-802a-ecd1893233e7" />
 
 ---
 
