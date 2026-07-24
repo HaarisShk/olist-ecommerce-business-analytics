@@ -1,4 +1,4 @@
-# 📊 Olist E-Commerce Business Analytics
+# Olist E-Commerce Business Analytics
 
 <p align="center">
 
@@ -56,25 +56,25 @@ This project answers these questions using SQL-based business analytics and inte
 
 # Project Objectives
 
-✔ Audit raw business data
+ - Audit raw business data
 
-✔ Create reusable analytical SQL views
+ - Create reusable analytical SQL views
 
-✔ Generate executive KPIs
+ - Generate executive KPIs
 
-✔ Analyze customer purchasing behavior
+ - Analyze customer purchasing behavior
 
-✔ Evaluate product performance
+ - Evaluate product performance
 
-✔ Measure seller contribution
+ - Measure seller contribution
 
-✔ Assess delivery efficiency
+ - Assess delivery efficiency
 
-✔ Understand customer satisfaction
+ - Understand customer satisfaction
 
-✔ Analyze payment trends
+ - Analyze payment trends
 
-✔ Build interactive Power BI dashboards
+ - Build interactive Power BI dashboards
 
 ---
 
@@ -188,43 +188,43 @@ dataset/
 
 ## Customer Dashboard
 
-*(Insert Screenshot)*
+<img width="1321" height="738" alt="02 Customer_Analytics" src="https://github.com/user-attachments/assets/1aa3057d-b958-4d71-a1e2-db07a05775bf" />
 
 ---
 
 ## Product Dashboard
 
-*(Insert Screenshot)*
+<img width="1309" height="738" alt="03 Product_Analytics" src="https://github.com/user-attachments/assets/11dc5d0c-3a3e-4859-9f2d-f0eae77a9964" />
 
 ---
 
 ## Seller Dashboard
 
-*(Insert Screenshot)*
+<img width="1311" height="738" alt="04 Seller_Analytics" src="https://github.com/user-attachments/assets/c0a46c78-1618-4422-b938-f1cf156f5b70" />
 
 ---
 
 ## Delivery Dashboard
 
-*(Insert Screenshot)*
+<img width="1312" height="726" alt="05 Delivery_Logistics_Analytics" src="https://github.com/user-attachments/assets/330c7d2d-1013-420e-a221-d77aa6898ef5" />
 
 ---
 
 ## Review Dashboard
 
-*(Insert Screenshot)*
+<img width="1306" height="733" alt="06 Review_Analytics" src="https://github.com/user-attachments/assets/89328fb4-074a-4814-93fc-cb906e514fe3" />
 
 ---
 
 ## Payment Dashboard
 
-*(Insert Screenshot)*
+<img width="1306" height="733" alt="06 Review_Analytics" src="https://github.com/user-attachments/assets/73f508b0-e672-421e-8002-024d9be0d0ba" />
 
 ---
 
 ## Business Insights Dashboard
 
-*(Insert Screenshot)*
+<img width="1306" height="735" alt="08 Business_Insights_Recommendations" src="https://github.com/user-attachments/assets/d7c4e5d4-648e-4235-9008-a1d9a5ba178b" />
 
 ---
 
@@ -232,11 +232,11 @@ dataset/
 
 Some notable findings from the analysis include:
 
-- Identified seasonal revenue trends to understand sales performance over time.
-- A small number of product categories generated a significant share of total revenue.
-- Top-performing sellers contributed disproportionately to overall sales.
-- Longer delivery times were associated with lower customer review scores, highlighting the impact of logistics on customer satisfaction.
-- Credit cards emerged as the most preferred payment method across customers.
+- Sales exhibited clear seasonal trends, highlighting periods of higher customer demand.
+- A small number of product categories accounted for a significant share of total revenue.
+- Top-performing sellers contributed disproportionately to overall marketplace sales.
+- Longer delivery times were associated with lower customer review scores, indicating the impact of logistics on customer satisfaction.
+- Credit cards were the most preferred payment method, accounting for the majority of transactions.
 
 ---
 
@@ -244,12 +244,11 @@ Some notable findings from the analysis include:
 
 Based on the analysis:
 
-- Prioritize inventory and marketing investments for high-performing product categories.
+- Increase investment in high-performing product categories through targeted inventory planning and marketing campaigns.
 - Optimize delivery operations in regions with longer delivery times to improve customer satisfaction.
-- Strengthen relationships with top-performing sellers while supporting underperforming sellers through performance monitoring.
-- Implement customer retention strategies for high-value customers using personalized offers and loyalty programs.
-- Continuously monitor key business KPIs through interactive dashboards to support data-driven decision-making.
-
+- Strengthen partnerships with top-performing sellers while monitoring underperforming sellers through performance KPIs.
+- Improve customer retention by implementing personalized offers and loyalty programs for high-value customers.
+- Continuously monitor executive KPIs using interactive dashboards to enable faster, data-driven business decisions.
 ---
 
 # Power BI Dashboard
@@ -267,19 +266,7 @@ The complete interactive dashboard can be downloaded from:
 3. Execute SQL scripts sequentially.
 4. Refresh the Power BI report.
 5. Explore dashboards and insights.
-
----
-
-# Future Enhancements
-
-- Customer Segmentation (RFM)
-- Cohort Analysis
-- Sales Forecasting
-- Inventory Analytics
-- Market Basket Analysis
-- Customer Lifetime Value
-
----
+   
 
 # Contact
 
